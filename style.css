@@ -1,0 +1,33 @@
+/*
+Theme Name: RE-Cashflow
+Theme URI: http://prestonwallace.com
+Description: A Real Estate Cashflow-Centered theme. Built with Bootstrap, jQuery, and other vendor CSS and JS.
+Author: Preston Wallace
+Author URI: http://prestonwallace.com
+Version: 1.0
+Tags: responsive, dark, yellow, real estate, bootstrap
+
+License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+License URI: http://creativecommons.org/licenses/by-sa/3.0/
+
+This simple theme was built using the example Bootstrap theme "Basic marketing site" found on the Bootstrap web site http://twitter.github.com/bootstrap/examples/hero.html
+*/
+
+/* Bootstrap CSS */
+        @import url('./css/bootstrap.css');
+        @import url('./vendors/linericon/style.css');
+        @import url('./css/font-awesome.min.css');
+        @import url('./vendors/owl-carousel/owl.carousel.min.css');
+        @import url('./vendors/lightbox/simpleLightbox.css');
+        @import url('./vendors/nice-select/css/nice-select.css');
+        @import url('./vendors/animate-css/animate.css');
+        @import url('./vendors/flaticon/flaticon.css');
+        /* main css */
+        @import url('./css/style.css');
+        @import url('./css/responsive.css');
+
+
+.blog_area{
+  margin-top: 20px;
+}
+
